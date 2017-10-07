@@ -3,10 +3,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Untitled Document</title>
-<script src="SpryAssets/SpryValidationTextarea.js" type="text/javascript"></script>
-<script src="SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
-<link href="SpryAssets/SpryValidationTextarea.css" rel="stylesheet" type="text/css" />
-<link href="SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css" />
+<script src="SyAssets/SpryValidationTextarea.js" type="text/javascript"></script>
+<script src="SyAssets/SpryValidationTextField.js" type="text/javascript"></script>
+<link href="SyAssets/SpryValidationTextarea.css" rel="stylesheet" type="text/css" />
+<link href="SyAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css" />
 </head>
 
 
